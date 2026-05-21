@@ -6,13 +6,9 @@ I am a 11th Grader currently studying at Cal Charter and Gresham Highschool. I r
 
 ## My Skills
 * **Programming Languages:** HTML/CSS, Python, JavaScript
-* **Tools & Technologies:** [Tool 1], [Tool 2]
-* **Soft Skills:** [Skill 1], [Skill 2]
-
-### Recommended Resources
-1. [Insert Website Name Here](https://www.example.com)
-2. [Insert Another Website Here](https://www.example.com)
+* **Tools & Technologies:** Macbooks, Desktop Pcs
+* **Soft Skills:** Leadership, Communication
 
 ## Contact
 * Email: Baseballfreak8324@gmail.com
-* GitHub: [flowxfps]((https://github.com/flowxfps/Cole-Long))
+* GitHub: [flowxfps](https://github.com/flowxfps/Cole-Long)
